@@ -1,0 +1,33 @@
+.wrap{
+   background: url('i.jpg');
+   width: 1000px;
+   margin: 10px auto;
+   
+}
+/*bagian header*/
+.wrap .judul{
+   background: url('l.jpg');
+   /*height: 50px;*/
+   padding: 2px 10px;
+   text-align: center;
+}
+
+/*akhir header*/
+/*bagian menu*/
+.wrap .menu ul{
+  background: url('i.jpg');
+}
+
+.wrap .menu ul{
+	padding: 0;
+	margin: 0;
+	background: url('i.jpg');
+	overflow: hidden;
+}
+
+.wrap .menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 15px;
+	background: url('i.jpg');
+}
